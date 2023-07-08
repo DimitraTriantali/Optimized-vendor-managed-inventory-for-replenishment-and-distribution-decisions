@@ -6,7 +6,7 @@
 #### Files' guide
 ---
 
-The datasets of our study are placed in the [datasets](https://github.com/DimitraTriantali/Optimized-vendor-managed-inventory-for-replenishment-and-distribution-decisions/tree/3f244e0f0893ffccb63724424513d82a0762f9a5/datasets) folder. 
+The datasets of our study are placed in the [datasets](https://github.com/DimitraTriantali/Optimized-vendor-managed-inventory-for-replenishment-and-distribution-decisions/tree/3f244e0f0893ffccb63724424513d82a0762f9a5/datasets) folder. Each dataset is named T_m_n, where T is the length of the time horizon, m is the number of VMI customers, and n is the number of non-VMI customers.
 
 #### Licence
 ---
