@@ -11,7 +11,7 @@ The datasets of our study are placed in the [datasets](https://github.com/Dimitr
 #### Licence
 ---
 
-[MIT License](https://github.com/DimitraTriantali/SOMO-VCB/blob/main/LICENSE)
+[MIT License](https://github.com/DimitraTriantali/Optimized-vendor-managed-inventory-for-replenishment-and-distribution-decisions/blob/3f244e0f0893ffccb63724424513d82a0762f9a5/LICENSE)
 
 #### Acknowledgements
 ---
