@@ -6,7 +6,7 @@
 #### Files' guide
 ---
 
-The datasets of our study are placed in the [datasets](https://github.com/DimitraTriantali/) folder. 
+The datasets of our study are placed in the [datasets](https://github.com/DimitraTriantali/Optimized-vendor-managed-inventory-for-replenishment-and-distribution-decisions/tree/3f244e0f0893ffccb63724424513d82a0762f9a5/datasets) folder. 
 
 #### Licence
 ---
